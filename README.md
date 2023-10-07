@@ -8,11 +8,15 @@ This project combines traditional machine learning with state-of-the-art natural
 
 **Table of Contents**
 Usage
+
 Data Preprocessing
+
 Training
+
 Question Answering Model
+
 Results
-Contributing
+
 Acknowledgments
 
 **Usage**
@@ -50,6 +54,7 @@ I'd like to acknowledge the following sources and libraries that contributed to 
 XGBoost for the traditional machine learning classifier.
 Transfer Learning via  DistilBERT model and tokenizer.
 Dataset provided as a part of problem statement i.e training data.csv
+
 **Team Members**
 1.Harsh Mahire
 2.Yash Joshi
