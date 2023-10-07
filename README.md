@@ -47,7 +47,7 @@ The results of predictions are stored in a CSV file with the following fields---
 Question::
 Paragraph::
 Answer_start:: (Start index of the answer within the paragraph)
-Answer_text (The extracted answer)
+Answer_text:: (The extracted answer)
 
 **Acknowledgments**
 I'd like to acknowledge the following sources and libraries that contributed to this project:
